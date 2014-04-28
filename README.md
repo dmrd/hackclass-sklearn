@@ -3,7 +3,7 @@ This is the set of IPython notebooks I used for the intro ML class I taught for
 introtohacking.github.io
 
 Use the  [IPython slide viewer](https://slideviewer.herokuapp.com/github/dmrd/hackclass-sklearn/blob/master/presentation.ipynb#/) to view the
-main presentation, and [IPython nbviewer](nbviewer.ipython.org) to view the
+main presentation, and [IPython nbviewer](http://nbviewer.ipython.org) to view the
 rest.
 
 # Attributions
